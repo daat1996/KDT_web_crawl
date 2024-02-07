@@ -4,15 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12b59282-b148-42bb-9743-4485008af3c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/KDT_web_crawl.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_0207/ex01_urlopen.py" afterDir="false" />
+    <list default="true" id="12b59282-b148-42bb-9743-4485008af3c7" name="Changes" comment="크롤링 시작">
+      <change afterPath="$PROJECT_DIR$/DAY_0207/ex02_tag_except.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0207/ex03_request_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0207/ex04_createhtml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0207/ex05_createhtml2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0207/ex06_linktag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0207/ex07_html_table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0207/ex08_css_style.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0207/ex09_melon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0207/ex09_melon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -42,7 +45,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "Python.ex01_urlopen.executor": "Run",
+    "Python.ex02_tag_except.executor": "Run",
+    "Python.ex03_request_module.executor": "Run",
+    "Python.ex09_melon.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -65,6 +72,19 @@
       <option name="presentableId" value="Default" />
       <updated>1707263550541</updated>
     </task>
+    <task id="LOCAL-00001" summary="크롤링 시작">
+      <option name="closed" value="true" />
+      <created>1707265810868</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707265810868</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="크롤링 시작" />
+    <option name="LAST_COMMIT_MESSAGE" value="크롤링 시작" />
   </component>
 </project>
