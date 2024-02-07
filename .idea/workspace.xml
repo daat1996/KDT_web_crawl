@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12b59282-b148-42bb-9743-4485008af3c7" name="Changes" comment="크롤링 시작">
-      <change afterPath="$PROJECT_DIR$/DAY_0207/ex02_tag_except.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_0207/ex03_request_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_0207/ex04_createhtml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_0207/ex05_createhtml2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_0207/ex06_linktag.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_0207/ex07_html_table.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_0207/ex08_css_style.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_0207/ex09_melon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_0207/ex09_melon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0207/ex10_beautifulsoup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0207/ex11_find2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0207/ex11_select().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0207/hw01-01_양현우.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0207/hw01-01_양현우2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_0207/ex09_melon.html" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_0207/ex09_melon.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +47,11 @@
     "Python.ex02_tag_except.executor": "Run",
     "Python.ex03_request_module.executor": "Run",
     "Python.ex09_melon.executor": "Run",
+    "Python.ex10_beautifulsoup.executor": "Run",
+    "Python.ex11_find2.executor": "Run",
+    "Python.ex11_select().executor": "Run",
+    "Python.hw01-01_양현우.executor": "Run",
+    "Python.hw01-01_양현우2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -80,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707265810868</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="크롤링 시작">
+      <option name="closed" value="true" />
+      <created>1707272345321</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707272345321</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
