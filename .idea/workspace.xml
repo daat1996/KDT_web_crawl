@@ -4,26 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12b59282-b148-42bb-9743-4485008af3c7" name="Changes" comment="크롤링 시작">
-      <change afterPath="$PROJECT_DIR$/DAY_0208/.ipynb_checkpoints/ex04_RegularExpression-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_0208/.ipynb_checkpoints/ex05_wikipedia-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_0208/ex01_css_attrs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_0208/ex02_css_find(text=).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_0208/ex03_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_0208/ex04_RegularExpression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_0208/ex04_regular_Expression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_0208/ex05_wikipedia.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_0208/ex06_sauce_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_0208/ex07_all_site.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_0208/ex08_all_site_except.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_0208/ex09_naver_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY_0208/hw02_coffeeshop_to_csv_양현우.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw09_cardgame_class/card.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw09_cardgame_class/cardgame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw09_cardgame_class/gamedealer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw09_cardgame_class/player.py" afterDir="false" />
+    <list default="true" id="12b59282-b148-42bb-9743-4485008af3c7" name="Changes" comment="크롤링 과제&#10;02.12">
+      <change afterPath="$PROJECT_DIR$/DAY_0208/hw02_find_coffeeshop_양현우.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY_0207/hw01-02_양현우.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_0207/hw01-02_양현우.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +58,7 @@
     "Python.hw01-01_양현우2.executor": "Run",
     "Python.hw01-02_양현우.executor": "Run",
     "Python.hw02_coffeeshop_to_csv_양현우.executor": "Run",
+    "Python.hw02_find_coffeeshop_양현우.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -134,12 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707351128899</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="크롤링 과제&#10;02.12">
+      <option name="closed" value="true" />
+      <created>1707745351591</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707745351591</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="크롤링 시작" />
-    <option name="LAST_COMMIT_MESSAGE" value="크롤링 시작" />
+    <MESSAGE value="크롤링 과제&#10;02.12" />
+    <option name="LAST_COMMIT_MESSAGE" value="크롤링 과제&#10;02.12" />
   </component>
 </project>
