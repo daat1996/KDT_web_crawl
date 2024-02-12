@@ -13,6 +13,13 @@ print(f"현재 위치: {title.find('h2', {'class': 'title'}).text}")
 print(f"현재 온도: {weather.select_one('div.temperature_text').text}")
 print(f"날씨 상태: {weather.find('span', {'class': 'weather before_slash'}).text}")
 air_list = weather.select('ul.today_chart_list > li.item_today')
-print(len(air_list))
+air_list2 = weather.find_all('li',{'id':'item_today'})
+# print(len(air_list))
+cnt = 0
 for air in air_list:
     print(air.text)
+    cnt += 1
+    if cnt == 4:
+        break
+#     print(air.attrs)
+# print(len(air_list2))
