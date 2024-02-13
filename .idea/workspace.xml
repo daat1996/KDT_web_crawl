@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12b59282-b148-42bb-9743-4485008af3c7" name="Changes" comment="크롤링 과제&#10;02.12">
-      <change afterPath="$PROJECT_DIR$/DAY_0208/hw02_find_coffeeshop_양현우.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0213/editors.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0213/ex01_writerow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0213/ex02_csv_save.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0213/ex02_html_table_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY_0213/test.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_0208/.ipynb_checkpoints/ex05_wikipedia-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_0208/.ipynb_checkpoints/ex05_wikipedia-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY_0208/ex05_wikipedia.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DAY_0208/ex05_wikipedia.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +48,10 @@
     "Python.card.executor": "Run",
     "Python.ex01_css_attrs.executor": "Run",
     "Python.ex01_urlopen.executor": "Run",
+    "Python.ex01_writerow.executor": "Run",
     "Python.ex02_css_green.executor": "Run",
+    "Python.ex02_csv_save.executor": "Run",
+    "Python.ex02_html_table_parser.executor": "Run",
     "Python.ex02_tag_except.executor": "Run",
     "Python.ex03_request_module.executor": "Run",
     "Python.ex03_table.executor": "Run",
@@ -62,7 +71,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "advanced.settings"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -126,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707745351591</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="크롤링 과제&#10;02.12">
+      <option name="closed" value="true" />
+      <created>1707750770308</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707750770308</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
